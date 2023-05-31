@@ -16,7 +16,7 @@ function App() {
     return (
         <div className="App">
             Home
-            <Button onClick={onClose}>CLOSEsssssss</Button>
+            <Button onClick={onClose}>CLOSE</Button>
         </div>
     );
 }
